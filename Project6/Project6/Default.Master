@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Default.master.cs" Inherits="Project6.Default" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Project 6</title>
+
+    <style>
+        body {
+            background-color: linen;
+        }
+
+        h1 {
+            margin-left: 40px;
+            color: lightcoral;
+        }
+
+        .MarginLeft
+        {
+             margin-left: 40px;
+        }
+
+         h3 {
+            margin-left: 40px;
+            color: lightcoral;
+        }
+
+        a:link {
+            color: black;
+        }
+
+        a:visited {
+            color: green;
+        }
+
+        a:hover {
+            color: lightcoral;
+        }
+
+        a:active {
+            color: blue;
+        }
+        table{
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <!--Navigation Links-->
+    <div style="margin-top: 10px; font-size: x-large">
+        <a style="margin-left: 5px;" href="Default.aspx" >Home</a>  
+        <a style="margin-left: 10px;" href="AccountView.aspx" >Accounts</a>
+        <a style="margin-left: 10px;" href="StoryMaker.aspx">Story Maker</a>
+        <a style="margin-left: 10px;" href="TriangleCalculator.aspx">Triangle Calculator</a>
+    </div>
+
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,1 @@
+S:\.Net projects\Project04 FastFoodOrdering\Project04 FastFoodOrdering\Project04 FastFoodOrdering.csproj;x86

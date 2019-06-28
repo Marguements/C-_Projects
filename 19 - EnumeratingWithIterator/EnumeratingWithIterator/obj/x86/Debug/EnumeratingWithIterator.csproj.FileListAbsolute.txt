@@ -1,0 +1,23 @@
+D:\Projects\CS 364\Examples 2016\EnumeratingWithIterator\EnumeratingWithIterator\bin\Debug\EnumeratingWithIterator.exe
+D:\Projects\CS 364\Examples 2016\EnumeratingWithIterator\EnumeratingWithIterator\bin\Debug\EnumeratingWithIterator.pdb
+D:\Projects\CS 364\Examples 2016\EnumeratingWithIterator\EnumeratingWithIterator\obj\x86\Debug\EnumeratingWithIterator.exe
+D:\Projects\CS 364\Examples 2016\EnumeratingWithIterator\EnumeratingWithIterator\obj\x86\Debug\EnumeratingWithIterator.pdb
+D:\Projects\CS 364\Examples 2016\19 - EnumeratingWithIterator\EnumeratingWithIterator\obj\x86\Debug\EnumeratingWithIterator.exe
+D:\Projects\CS 364\Examples 2016\19 - EnumeratingWithIterator\EnumeratingWithIterator\obj\x86\Debug\EnumeratingWithIterator.pdb
+D:\Projects\CS 364\Examples 2016\19 - EnumeratingWithIterator\EnumeratingWithIterator\bin\Debug\EnumeratingWithIterator.exe
+D:\Projects\CS 364\Examples 2016\19 - EnumeratingWithIterator\EnumeratingWithIterator\bin\Debug\EnumeratingWithIterator.pdb
+C:\Users\mgeary\Desktop\CS 364 Local\19 - EnumeratingWithIterator\EnumeratingWithIterator\obj\x86\Debug\EnumeratingWithIterator.exe
+C:\Users\mgeary\Desktop\CS 364 Local\19 - EnumeratingWithIterator\EnumeratingWithIterator\obj\x86\Debug\EnumeratingWithIterator.pdb
+C:\Users\mgeary\Desktop\CS 364 Local\19 - EnumeratingWithIterator\EnumeratingWithIterator\bin\Debug\EnumeratingWithIterator.exe
+C:\Users\mgeary\Desktop\CS 364 Local\19 - EnumeratingWithIterator\EnumeratingWithIterator\bin\Debug\EnumeratingWithIterator.pdb
+C:\Users\mgeary\Desktop\CS 364 Local\19 - EnumeratingWithIterator\EnumeratingWithIterator\obj\x86\Debug\EnumeratingWithIterator.csprojResolveAssemblyReference.cache
+C:\Users\mgeary\Documents\Visual Studio 2015\Projects\Examples\19 - EnumeratingWithIterator\EnumeratingWithIterator\obj\x86\Debug\EnumeratingWithIterator.exe
+C:\Users\mgeary\Documents\Visual Studio 2015\Projects\Examples\19 - EnumeratingWithIterator\EnumeratingWithIterator\obj\x86\Debug\EnumeratingWithIterator.pdb
+C:\Users\mgeary\Documents\Visual Studio 2015\Projects\Examples\19 - EnumeratingWithIterator\EnumeratingWithIterator\bin\Debug\EnumeratingWithIterator.exe
+C:\Users\mgeary\Documents\Visual Studio 2015\Projects\Examples\19 - EnumeratingWithIterator\EnumeratingWithIterator\bin\Debug\EnumeratingWithIterator.pdb
+C:\Users\mgeary\Documents\Visual Studio 2015\Projects\Examples\19 - EnumeratingWithIterator\EnumeratingWithIterator\obj\x86\Debug\EnumeratingWithIterator.csprojResolveAssemblyReference.cache
+C:\Users\mgeary\Documents\Visual Studio 2017\Projects\CS364_Examples\19 - EnumeratingWithIterator\EnumeratingWithIterator\bin\Debug\EnumeratingWithIterator.exe
+C:\Users\mgeary\Documents\Visual Studio 2017\Projects\CS364_Examples\19 - EnumeratingWithIterator\EnumeratingWithIterator\bin\Debug\EnumeratingWithIterator.pdb
+C:\Users\mgeary\Documents\Visual Studio 2017\Projects\CS364_Examples\19 - EnumeratingWithIterator\EnumeratingWithIterator\obj\x86\Debug\EnumeratingWithIterator.csprojResolveAssemblyReference.cache
+C:\Users\mgeary\Documents\Visual Studio 2017\Projects\CS364_Examples\19 - EnumeratingWithIterator\EnumeratingWithIterator\obj\x86\Debug\EnumeratingWithIterator.exe
+C:\Users\mgeary\Documents\Visual Studio 2017\Projects\CS364_Examples\19 - EnumeratingWithIterator\EnumeratingWithIterator\obj\x86\Debug\EnumeratingWithIterator.pdb

@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="TempConverter.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TempConverter"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock x:ConnectionId='1' x:Name="Title"  FontWeight="SemiBold" Margin="10,200,10,0" TextWrapping="Wrap"  TextAlignment="Left" Text="Fahrenheit to Celsius Converter" Height="59" Width="575" FontSize="36" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+        <TextBox x:ConnectionId='2' x:Name="tempInput"         VerticalContentAlignment="Center" PlaceholderText="Fahrenheit" HorizontalAlignment="Center" Margin="10,390,300,10" TextAlignment="Center" TextWrapping="Wrap" FontSize="36" VerticalAlignment="Top" Height="60" Width="215"                                    />
+        <TextBlock x:ConnectionId='3' x:Name="tempOutput"      Text="Celsius" HorizontalAlignment="Center" Margin="280,390,10,10" TextAlignment="Left" TextWrapping="Wrap" FontSize="36" VerticalAlignment="Top" Height="60" Width="215" />
+        <TextBlock x:ConnectionId='4' x:Name="equalsSymbol"    FontWeight="SemiBold" Margin="8,390,16,10" TextWrapping="Wrap" TextAlignment="Center" Text="=" Height="60" Width="70" FontSize="42" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+
+    </Grid>
+</Page>
+

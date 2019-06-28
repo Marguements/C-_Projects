@@ -1,0 +1,23 @@
+E:\Geary C#\Projects\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.exe.config
+E:\Geary C#\Projects\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.exe
+E:\Geary C#\Projects\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.pdb
+E:\Geary C#\Projects\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.csprojResolveAssemblyReference.cache
+E:\Geary C#\Projects\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.csproj.CoreCompileInputs.cache
+E:\Geary C#\Projects\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.exe
+E:\Geary C#\Projects\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.pdb
+I:\Geary C#\Projects\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.exe.config
+I:\Geary C#\Projects\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.exe
+I:\Geary C#\Projects\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.pdb
+I:\Geary C#\Projects\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.csprojResolveAssemblyReference.cache
+I:\Geary C#\Projects\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.csproj.CoreCompileInputs.cache
+I:\Geary C#\Projects\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.exe
+I:\Geary C#\Projects\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.pdb
+E:\School Programming projects\Geary C#\Projects\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.exe.config
+E:\School Programming projects\Geary C#\Projects\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.exe
+E:\School Programming projects\Geary C#\Projects\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.pdb
+E:\School Programming projects\Geary C#\Projects\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.csprojAssemblyReference.cache
+E:\School Programming projects\Geary C#\Projects\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.csproj.CoreCompileInputs.cache
+E:\School Programming projects\Geary C#\Projects\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.exe
+E:\School Programming projects\Geary C#\Projects\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.pdb
+E:\School Programming projects\Geary C#\Projects\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.exe.CodeAnalysisLog.xml
+E:\School Programming projects\Geary C#\Projects\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.exe.lastcodeanalysissucceeded

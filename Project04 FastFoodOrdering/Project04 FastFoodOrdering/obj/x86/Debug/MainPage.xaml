@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="Project04_FastFoodOrdering.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Project04_FastFoodOrdering"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBox x:ConnectionId='1' x:Name="textBox" InputScope="Number" HorizontalAlignment="Left" MaxLength="3"  FontSize="18" Margin="302,199,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="139" Height="46"/>
+        <TextBlock x:ConnectionId='2' x:Name="textBlock" HorizontalAlignment="Left" Margin="131,210,0,0" TextWrapping="Wrap"  Text="How Many Sanwiches?" VerticalAlignment="Top" Height="21" Width="155"/>
+
+
+    </Grid>
+</Page>
+

@@ -1,0 +1,7 @@
+I:\Geary C#\Projects\Project7\Project7\bin\Debug\Project7.exe.config
+I:\Geary C#\Projects\Project7\Project7\bin\Debug\Project7.exe
+I:\Geary C#\Projects\Project7\Project7\bin\Debug\Project7.pdb
+I:\Geary C#\Projects\Project7\Project7\obj\Debug\Project7.csprojResolveAssemblyReference.cache
+I:\Geary C#\Projects\Project7\Project7\obj\Debug\Project7.csproj.CoreCompileInputs.cache
+I:\Geary C#\Projects\Project7\Project7\obj\Debug\Project7.exe
+I:\Geary C#\Projects\Project7\Project7\obj\Debug\Project7.pdb
